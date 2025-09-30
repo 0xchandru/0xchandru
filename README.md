@@ -43,7 +43,7 @@
 </p>
 
 <!-- Quick Links -->
-### 🌐 [Visit My Portfolio Website](https://chandruthehacker.github.io/)  
+### 🌐 [Visit My Portfolio Website](https://chandru.me/)  
 ### 📂 [View My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
 
 
