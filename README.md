@@ -17,16 +17,16 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chandruthehacker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=0xchandru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- About Me Section -->
 ## 🚀 About Me  
 - 🎓 **B.Sc. Computer Science** student specializing in **Cybersecurity**  
-- 🔭 Currently building **[SenSIEM](https://github.com/chandruthehacker/SenSIEM)** — an open-source SIEM & IDS  
+- 🔭 Currently building **[SenSIEM](https://github.com/0xchandru/SenSIEM)** — an open-source SIEM & IDS  
 - 🌱 Learning **Cloud Security (AWS/Azure)**, **Malware Analysis**, and **Threat Intelligence**  
 - 👯 Open to collaborating on **Blue Team tools**, **Security Automation**, and **SOC-related projects**  
-- 📝 Writing about security on **[Medium](https://medium.com/@chandruthehacker)**  
+- 📝 Writing about security on **[Medium](https://medium.com/@0xchandru)**  
 - 💬 Ask me about **Cybersecurity, Threat Detection, and Ethical Hacking**  
 - 📫 Reach me at **cyberchandru87@gmail.com**  
 - 🎯 Long-term goal: **Build an AI-powered threat defense startup**  
@@ -35,16 +35,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cyberchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberchandru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandruthehacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandruthehacker" height="30" width="40" /></a>
-<a href="https://fb.com/chandru87125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandru87125" height="30" width="40" /></a>
-<a href="https://instagram.com/cyberchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberchandru" height="30" width="40" /></a>
-<a href="https://medium.com/@chandruthehacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandruthehacker" height="30" width="40" /></a>
+<a href="https://twitter.com/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xchandru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xchandru" height="30" width="40" /></a>
+<a href="https://fb.com/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0xchandru" height="30" width="40" /></a>
+<a href="https://instagram.com/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xchandru" height="30" width="40" /></a>
+<a href="https://medium.com/@0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xchandru" height="30" width="40" /></a>
 </p>
 
 <!-- Quick Links -->
-### 🌐 [Visit My Portfolio Website](https://chandru.me/)  
-### 📂 [View My Portfolio Repo](https://github.com/chandruthehacker/portfolio)
+### 🌐 [Visit My Portfolio Website](https://chandraprakash.me/)  
+### 📂 [View My Portfolio Repo](https://github.com/0xchandru/portfolio)
 
 
 ## 🌟 Featured Project: SenSIEM
@@ -60,7 +60,7 @@
 | 🔁 **Log Forwarder** | Real-time log shipping from multiple sources |
 
 🛠 **Tech Stack:** FastAPI • React • SQLite • Tailwind CSS • Recharts  
-🔗 **[View on GitHub](https://github.com/chandruthehacker/SenSIEM)**
+🔗 **[View on GitHub](https://github.com/0xchandru/SenSIEM)**
 
 ---
 
@@ -101,8 +101,8 @@ My toolkit is constantly evolving. Here's a snapshot of the technologies I work 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandruthehacker&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandruthehacker&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xchandru&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xchandru&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
