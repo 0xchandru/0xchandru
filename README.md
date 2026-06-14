@@ -38,14 +38,24 @@ Status: Open to Work
 Strength: Hands-on SOC lab + real investigations + analyst tooling projects
 ```
 
-### Why recruiters and hiring managers should notice this profile
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛡️ Detection</h3>
+      <p>Alert triage, SPL investigations, IOC validation, telemetry correlation, and evidence-based incident analysis.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Engineering</h3>
+      <p>Built analyst-focused tools to enrich indicators, centralize workflows, and reduce triage friction.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔎 SOC Readiness</h3>
+      <p>Operates a practical home lab with Splunk, Sysmon, Zeek, and Velociraptor for realistic blue-team scenarios.</p>
+    </td>
+  </tr>
+</table>
 
-- 🛡️ **Built and run a self-managed SOC home lab** with **Splunk, Sysmon, Zeek, and Velociraptor**
-- 🔎 Completed **structured end-to-end investigations** with **SPL queries, evidence timelines, IOC enrichment, and MITRE ATT&CK mapping**
-- ⚙️ Built **ThreatLens** and **SecOps Console** to improve analyst speed, triage, and workflow automation
-- 🏆 Ranked in the **Top 1% on TryHackMe** and completed **3 industry-recognized cybersecurity credentials**
-- 📄 Strong documentation mindset: investigations are written for **reviewability, reproducibility, and technical clarity**
-
+> **Built real tools. Ran real investigations. Ready for a real SOC.**
 ---
 
 ## 🧠 Who I Am
