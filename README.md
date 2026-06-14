@@ -6,7 +6,7 @@
   <img src="Animated_Video.gif" alt="SOC Analyst Banner" width="92%" />
 </p> -->
 
-<h1 align="center">👋 Hey, I'm Chandraprakash C</h1>
+<h1 align="center">👋 Hey, I'm Chandraprakash</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=SOC+Analyst+(L1)+%E2%80%A2+Open+to+Work;Splunk+%E2%80%A2+Sysmon+%E2%80%A2+Zeek+%E2%80%A2+Velociraptor;Threat+Detection+%E2%80%A2+Incident+Response+%E2%80%A2+IOC+Enrichment;Built+ThreatLens+%26+SecOps+Console;TryHackMe+Top+1%25+%E2%80%A2+3%C3%97+Industry+Certified" alt="typing intro" />
