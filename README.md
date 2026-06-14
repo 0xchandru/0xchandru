@@ -193,13 +193,12 @@ Instead of stopping at certifications, I built a **SOC-style home lab**, investi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xchandru&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xchandru&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xchandru&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xchandru&theme=react-dark&hide_border=true&area=true" width="96%" alt="Contribution Graph" />
 </p>
-
 ---
 
 ## 🤝 Let’s Connect
