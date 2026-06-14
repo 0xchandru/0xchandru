@@ -1,130 +1,217 @@
-<!-- Header GIF -->
+<!-- Premium Animated GitHub Profile README -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:0ea5e9,70:06b6d4,100:22d3ee&text=Chandraprakash%20C&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=SOC%20Analyst%20(L1)%20%7C%20Blue%20Team%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=56&animation=twinkling" alt="header" />
+
 <p align="center">
-  <img src="Animated_Video.gif" alt="Anime SOC Analyst" style="max-width:100%; border-radius:10px;" />
+  <img src="Animated_Video.gif" alt="SOC Analyst Banner" width="92%" />
 </p>
 
-<!-- Main Heading -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align:middle;"> 
-  Hey there! I'm <span style="color:#00F7FF;">Chandraprakash C</span>
-</h1>
+<h1 align="center">👋 Hey, I'm Chandraprakash C</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&lines=Aspiring+Security+Analyst+%F0%9F%94%90;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+Learner+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=SOC+Analyst+(L1)+%E2%80%A2+Open+to+Work;Splunk+%E2%80%A2+Sysmon+%E2%80%A2+Zeek+%E2%80%A2+Velociraptor;Threat+Detection+%E2%80%A2+Incident+Response+%E2%80%A2+IOC+Enrichment;Built+ThreatLens+%26+SecOps+Console;TryHackMe+Top+1%25+%E2%80%A2+3%C3%97+Industry+Certified" alt="typing intro" />
 </p>
 
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=0xchandru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <a href="https://tryhackme.com/p/0xchandru"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://linkedin.com/in/chandraprakash-soc"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://chandraprakash.me"><img src="https://img.shields.io/badge/Portfolio-chandraprakash.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- About Me Section -->
-## 🚀 About Me  
-- 🎓 **B.Sc. Computer Science** student specializing in **Cybersecurity**  
-- 🔭 Currently building **[SenSIEM](https://github.com/0xchandru/SenSIEM)** — an open-source SIEM & IDS  
-- 🌱 Learning **Cloud Security (AWS/Azure)**, **Malware Analysis**, and **Threat Intelligence**  
-- 👯 Open to collaborating on **Blue Team tools**, **Security Automation**, and **SOC-related projects**  
-- 📝 Writing about security on **[Medium](https://medium.com/@0xchandru)**  
-- 💬 Ask me about **Cybersecurity, Threat Detection, and Ethical Hacking**  
-- 📫 Reach me at **cyberchandru87@gmail.com**  
-- 🎯 Long-term goal: **Build an AI-powered threat defense startup**  
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xchandru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xchandru" height="30" width="40" /></a>
-<a href="https://fb.com/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0xchandru" height="30" width="40" /></a>
-<a href="https://instagram.com/0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xchandru" height="30" width="40" /></a>
-<a href="https://medium.com/@0xchandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xchandru" height="30" width="40" /></a>
-</p>
-
-<!-- Quick Links -->
-### 🌐 [Visit My Portfolio Website](https://chandraprakash.me/)  
-### 📂 [View My Portfolio Repo](https://github.com/0xchandru/portfolio)
-
-
-## 🌟 Featured Project: SenSIEM
-> A full-stack log analysis & intrusion detection platform inspired by enterprise SIEM tools.
-
-| Feature | Description |
-|---------|-------------|
-| 🔎 **Search Interface** | Splunk-style log search with custom filters |
-| 📊 **Dashboards** | Real-time charts for alerts, IPs, and log types |
-| 🚨 **Alerting Engine** | Detects brute-force, anomalies, suspicious behavior |
-| 📬 **Notifications** | Email, Slack, and Telegram alert delivery |
-| ⚙️ **Settings Panel** | Manage log paths, rules, and alerts |
-| 🔁 **Log Forwarder** | Real-time log shipping from multiple sources |
-
-🛠 **Tech Stack:** FastAPI • React • SQLite • Tailwind CSS • Recharts  
-🔗 **[View on GitHub](https://github.com/0xchandru/SenSIEM)**
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xchandru&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/0xchandru?label=Followers&style=flat-square&color=22c55e" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-14b8a6?style=flat-square" alt="open to work" />
+</p> -->
 
 ---
 
-### 🛡️ My Arsenal: Skills & Tools
+## ⚡ Executive Snapshot
 
-My toolkit is constantly evolving. Here's a snapshot of the technologies I work with daily.
+```yaml
+Name: Chandraprakash C
+Role: SOC Analyst (L1)
+Focus: Blue Team | Threat Detection | Incident Response | SOC Operations
+Location: Tamil Nadu, India
+Status: Open to Work
+Strength: Hands-on SOC lab + real investigations + analyst tooling projects
+```
 
-#### **SIEM & Threat Detection**
-<p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/>
-  <img src="https://img.shields.io/badge/Suricata-A32929?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>
-  <img src="https://img.shields.io/badge/Snort-2A9C46?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
-  <img src="https://img.shields.io/badge/Zeek-00AEEF?style=for-the-badge&logo=zeek&logoColor=white" alt="Zeek"/>
-</p>
+### Why recruiters and hiring managers should notice this profile
 
-#### **Automation & Scripting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-</p>
-
-#### **Development & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-</p>
+- 🛡️ **Built and run a self-managed SOC home lab** with **Splunk, Sysmon, Zeek, and Velociraptor**
+- 🔎 Completed **structured end-to-end investigations** with **SPL queries, evidence timelines, IOC enrichment, and MITRE ATT&CK mapping**
+- ⚙️ Built **ThreatLens** and **SecOps Console** to improve analyst speed, triage, and workflow automation
+- 🏆 Ranked in the **Top 1% on TryHackMe** and completed **3 industry-recognized cybersecurity credentials**
+- 📄 Strong documentation mindset: investigations are written for **reviewability, reproducibility, and technical clarity**
 
 ---
 
+## 🧠 Who I Am
 
-## 📊 GitHub Stats
+I’m a **B.Sc. Computer Science graduate** focused on becoming a high-impact **SOC Analyst / Security Analyst**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xchandru&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xchandru&theme=tokyonight&hide_border=true" width="48%">
+What makes me different is simple: I didn’t stop at coursework and certificates. I built a realistic security operations environment, used it to investigate attack scenarios, and created supporting tools that reflect real SOC workflows.
+
+I enjoy working across the full analyst cycle:
+
+- alert triage
+- log investigation
+- IOC validation
+- endpoint and network correlation
+- incident documentation
+- ATT&CK mapping
+- workflow automation
+
+---
+
+## 🚀 Featured Work
+
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🏠 SOC Home Lab</h3>
+      <p><strong>Detection and investigation lab</strong> built to simulate real SOC workflows across endpoint and network telemetry.</p>
+      <ul>
+        <li>Splunk Enterprise + Universal Forwarder for SIEM pipeline</li>
+        <li>Windows 10 VM with Sysmon, Script Block Logging, and Velociraptor</li>
+        <li>Zeek telemetry using <code>conn.log</code>, <code>dns.log</code>, and <code>http.log</code></li>
+        <li>SOAR workflow integration with Shuffle, Jira, and Slack</li>
+      </ul>
+      <p><strong>Example scenarios:</strong> Brute Force, PowerShell C2 Callback, Lateral Movement, Ransomware Simulation, and additional investigation workflows.</p>
+      <a href="https://github.com/0xchandru/soc-homelab">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SOC Homelab Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 ThreatLens</h3>
+      <p><strong>Multi-source IOC enrichment platform</strong> built for faster analyst decision-making.</p>
+      <ul>
+        <li>Queries 5 intelligence sources in parallel using <code>asyncio.gather</code></li>
+        <li>Returns a weighted composite threat score for IPs, domains, and hashes</li>
+        <li>Designed to reduce analyst context switching during triage</li>
+      </ul>
+      <p>
+        <strong>Stack:</strong> FastAPI, Python, React, Vite, SQLite/PostgreSQL<br/>
+        <strong>Sources:</strong> VirusTotal, AbuseIPDB, AlienVault OTX, URLhaus, GreyNoise
+      </p>
+      <a href="https://github.com/0xchandru/threatlens">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ThreatLens Repo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 SecOps Console</h3>
+      <p><strong>SOC operations dashboard</strong> that centralizes enrichment, triage, and response workflow actions.</p>
+      <ul>
+        <li>Acts as a proxy/cache layer for ThreatLens enrichment</li>
+        <li>Supports alert triage, IOC lookup, and case workflow visibility</li>
+        <li>Integrates SOAR actions with Jira ticketing and Slack notification</li>
+      </ul>
+      <p>
+        <strong>Stack:</strong> React, FastAPI, Python<br/>
+        <strong>Workflow:</strong> Splunk Alert → Shuffle SOAR → Jira → Slack
+      </p>
+      <a href="https://github.com/0xchandru/secops-console">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SecOps Console Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛡️ Core SOC Skills
+
+### Detection & Investigation
+<p>
+  <img src="https://img.shields.io/badge/Splunk_SPL-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sysmon" />
+  <img src="https://img.shields.io/badge/Zeek-00AEEF?style=for-the-badge&logoColor=white" alt="Zeek" />
+  <img src="https://img.shields.io/badge/Velociraptor-FF6600?style=for-the-badge&logoColor=white" alt="Velociraptor" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+### Automation & SOAR
+<p>
+  <img src="https://img.shields.io/badge/Shuffle_SOAR-4B275F?style=for-the-badge&logoColor=white" alt="Shuffle" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+</p>
+
+### Threat Intelligence
+<p>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white" alt="VirusTotal" />
+  <img src="https://img.shields.io/badge/AbuseIPDB-CC0000?style=for-the-badge&logoColor=white" alt="AbuseIPDB" />
+  <img src="https://img.shields.io/badge/AlienVault_OTX-67B346?style=for-the-badge&logoColor=white" alt="AlienVault OTX" />
+  <img src="https://img.shields.io/badge/URLhaus-FF4500?style=for-the-badge&logoColor=white" alt="URLhaus" />
+  <img src="https://img.shields.io/badge/GreyNoise-4A90D9?style=for-the-badge&logoColor=white" alt="GreyNoise" />
+</p>
+
+### Languages & Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 ---
 
 ## 🏅 Certifications & Achievements
-- ✅ Google Cybersecurity Professional Certificate (Coursera)  
-- 🛠 Certified Wazuh Engineer *(In Progress)*  
-- 🎯 Preparing for CompTIA CySA+ (2025)  
+
+| Credential | Provider | Status |
+| --- | --- | --- |
+| SOC Level 1 Learning Path | TryHackMe | ✅ Completed |
+| Cybersecurity Professional Certificate | Google / Coursera | ✅ Completed |
+| Cybersecurity Analyst Professional Certificate | IBM / Coursera | ✅ Completed |
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xchandru&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
+</p>
 
 ---
 
-## 🎯 2025 Focus Areas
-```mermaid
-pie title 2025 Skill Investments
-    "Threat Hunting" : 35
-    "Incident Response" : 30
-    "Cloud Security" : 20
-    "Malware Analysis" : 15
+## 📊 GitHub Analytics
 
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xchandru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xchandru&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xchandru&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xchandru&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph" />
+</p>
 
 ---
-> Open to: SOC Internships • Threat Research Collaborations • CTF Teams
----
-> 🔐 *"Cybersecurity is not just a skill, it’s a responsibility."* — **Chandraprakash C (chandruthehacker)**
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/chandraprakash-soc"><img src="https://img.shields.io/badge/LinkedIn-chandraprakash--soc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/0xchandru"><img src="https://img.shields.io/badge/TryHackMe-0xchandru-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://chandraprakash.me"><img src="https://img.shields.io/badge/Portfolio-chandraprakash.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://medium.com/@0xchandru"><img src="https://img.shields.io/badge/Medium-@0xchandru-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:cyberchandru87@gmail.com"><img src="https://img.shields.io/badge/Email-cyberchandru87%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <strong>Open to:</strong> L1 SOC Analyst • Security Analyst • Blue Team • Threat Detection Roles
+</p>
+
+<p align="center">
+  <i>Built real tools. Ran real investigations. Ready for a real SOC.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,30:0ea5e9,70:06b6d4,100:22d3ee" alt="footer" />
