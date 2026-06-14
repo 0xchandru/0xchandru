@@ -89,9 +89,7 @@ Instead of stopping at certifications, I built a **SOC-style home lab**, investi
         <li>SOAR workflow integration with Shuffle, Jira, and Slack</li>
       </ul>
       <p><strong>Example scenarios:</strong> Brute Force, PowerShell C2 Callback, Lateral Movement, Ransomware Simulation, and additional investigation workflows.</p>
-      <a href="https://github.com/0xchandru/soc-homelab">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SOC Homelab Repo" />
-      </a>
+      <a href="https://github.com/0xchandru/soc-homelab"><img src="https://img.shields.io/badge/GitHub-SOC_Homelab-181717?style=for-the-badge&logo=github&logoColor=22d3ee" alt="SOC Homelab Repo" /></a>
     </td>
   </tr>
 </table>
@@ -111,7 +109,7 @@ Instead of stopping at certifications, I built a **SOC-style home lab**, investi
         <strong>Sources:</strong> VirusTotal, AbuseIPDB, AlienVault OTX, URLhaus, GreyNoise
       </p>
       <a href="https://github.com/0xchandru/threatlens">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ThreatLens Repo" />
+        <img src="https://img.shields.io/badge/GitHub-ThreatLens-181717?style=for-the-badge&logo=github&logoColor=22d3ee" alt="ThreatLens Repo" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -127,7 +125,7 @@ Instead of stopping at certifications, I built a **SOC-style home lab**, investi
         <strong>Workflow:</strong> Splunk Alert → Shuffle SOAR → Jira → Slack
       </p>
       <a href="https://github.com/0xchandru/secops-console">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SecOps Console Repo" />
+        <img src="https://img.shields.io/badge/GitHub-SecOps_Console-181717?style=for-the-badge&logo=github&logoColor=22d3ee" alt="SecOps Console Repo" />
       </a>
     </td>
   </tr>
