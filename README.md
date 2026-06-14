@@ -1,6 +1,6 @@
 <!-- Premium Animated GitHub Profile README -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:0ea5e9,70:06b6d4,100:22d3ee&text=Chandraprakash%20C&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=SOC%20Analyst%20(L1)%20%7C%20Blue%20Team%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=56&animation=twinkling" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,30:0ea5e9,70:06b6d4,100:22d3ee&text=Chandraprakash%20C&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=SOC%20Analyst%20Candidate%20%7C%20Blue%20Team%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=56&animation=twinkling" alt="header" />
 
 <!-- <p align="center">
   <img src="Animated_Video.gif" alt="SOC Analyst Banner" width="92%" />
