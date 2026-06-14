@@ -137,36 +137,36 @@ Instead of stopping at certifications, I built a **SOC-style home lab**, investi
 
 ### Detection & Investigation
 <p>
-  <img src="https://img.shields.io/badge/Splunk_SPL-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Splunk_SPL-000000?style=for-the-badge&logo=splunk&logoColor=22d3ee" alt="Splunk" />
   <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sysmon" />
-  <img src="https://img.shields.io/badge/Zeek-00AEEF?style=for-the-badge&logoColor=white" alt="Zeek" />
-  <img src="https://img.shields.io/badge/Velociraptor-FF6600?style=for-the-badge&logoColor=white" alt="Velociraptor" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Zeek-082f49?style=for-the-badge&logoColor=22d3ee" alt="Zeek" />
+  <img src="https://img.shields.io/badge/Velociraptor-7c2d12?style=for-the-badge&logoColor=fb923c" alt="Velociraptor" />
+  <img src="https://img.shields.io/badge/Wireshark-0f766e?style=for-the-badge&logo=wireshark&logoColor=ccfbf1" alt="Wireshark" />
 </p>
 
-### Automation & SOAR
+### Automation & Response Workflow
 <p>
-  <img src="https://img.shields.io/badge/Shuffle_SOAR-4B275F?style=for-the-badge&logoColor=white" alt="Shuffle" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Shuffle_SOAR-312e81?style=for-the-badge&logoColor=c4b5fd" alt="Shuffle" />
+  <img src="https://img.shields.io/badge/Jira-1d4ed8?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
 ### Threat Intelligence
 <p>
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white" alt="VirusTotal" />
-  <img src="https://img.shields.io/badge/AbuseIPDB-CC0000?style=for-the-badge&logoColor=white" alt="AbuseIPDB" />
-  <img src="https://img.shields.io/badge/AlienVault_OTX-67B346?style=for-the-badge&logoColor=white" alt="AlienVault OTX" />
-  <img src="https://img.shields.io/badge/URLhaus-FF4500?style=for-the-badge&logoColor=white" alt="URLhaus" />
-  <img src="https://img.shields.io/badge/GreyNoise-4A90D9?style=for-the-badge&logoColor=white" alt="GreyNoise" />
+  <img src="https://img.shields.io/badge/VirusTotal-1d4ed8?style=for-the-badge&logoColor=bfdbfe" alt="VirusTotal" />
+  <img src="https://img.shields.io/badge/AbuseIPDB-991b1b?style=for-the-badge&logoColor=fecaca" alt="AbuseIPDB" />
+  <img src="https://img.shields.io/badge/AlienVault_OTX-14532d?style=for-the-badge&logoColor=bbf7d0" alt="AlienVault OTX" />
+  <img src="https://img.shields.io/badge/URLhaus-7c2d12?style=for-the-badge&logoColor=fdba74" alt="URLhaus" />
+  <img src="https://img.shields.io/badge/GreyNoise-334155?style=for-the-badge&logoColor=e2e8f0" alt="GreyNoise" />
 </p>
 
-### Languages & Development
+### Development & Scripting
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=facc15" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-052e16?style=for-the-badge&logo=gnubash&logoColor=86efac" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-1e40af?style=for-the-badge&logo=powershell&logoColor=dbeafe" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/FastAPI-064e3b?style=for-the-badge&logo=fastapi&logoColor=99f6e4" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22d3ee" alt="React" />
 </p>
 
 ---
