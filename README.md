@@ -179,9 +179,9 @@ Instead of stopping at certifications, I built a **SOC-style home lab**, investi
 | Cybersecurity Professional Certificate | Google / Coursera | ✅ Completed |
 | Cybersecurity Analyst Professional Certificate | IBM / Coursera | ✅ Completed |
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0xchandru&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
-</p>
+</p> -->
 
 ---
 
