@@ -60,19 +60,17 @@ Strength: Hands-on SOC lab + real investigations + analyst tooling projects
 
 ## 🧠 Who I Am
 
-I’m a **B.Sc. Computer Science graduate** focused on becoming a high-impact **SOC Analyst / Security Analyst**.
+I’m a **B.Sc. Computer Science graduate** focused on practical cybersecurity rather than checkbox learning.
 
-What makes me different is simple: I didn’t stop at coursework and certificates. I built a realistic security operations environment, used it to investigate attack scenarios, and created supporting tools that reflect real SOC workflows.
+Instead of stopping at certifications, I built a **SOC-style home lab**, investigated realistic attack activity, and documented the full path from **alert → triage → correlation → ATT&CK mapping → verdict**.
 
-I enjoy working across the full analyst cycle:
+### What I bring to a security team
 
-- alert triage
-- log investigation
-- IOC validation
-- endpoint and network correlation
-- incident documentation
-- ATT&CK mapping
-- workflow automation
+- Strong foundation in **log analysis and incident investigation**
+- Hands-on telemetry work across **endpoint and network sources**
+- Practical workflow thinking around **SIEM, SOAR, and analyst operations**
+- A builder mindset that combines **security analysis + automation + documentation**
+- Clear write-ups that help reviewers quickly understand findings, scope, and impact
 
 ---
 
