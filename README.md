@@ -199,6 +199,7 @@ Instead of stopping at certifications, I built a **SOC-style home lab**, investi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xchandru&theme=react-dark&hide_border=true&area=true" width="96%" alt="Contribution Graph" />
 </p>
+
 ---
 
 ## 🤝 Let’s Connect
